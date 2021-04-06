@@ -37,15 +37,3 @@ imageView.setImageBitmap(bitmap)
 
 ## Support me
 Thanks for reading this far, Appreciate your effort, If this tutorial really helped you consider buying me a coffee [here](https://www.buymeacoffee.com/riyasv). You can contact me through [LinkedIn](https://www.linkedin.com/in/riyasvmc).
-
-## Tech
-
-Used following 3rd party libraries 
-
-* [ZXing](https://github.com/zxing/zxing) - ZXing is an open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages
-
-
-License
-----
-
-MIT
