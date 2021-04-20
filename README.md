@@ -5,7 +5,7 @@ This is a Sample app to generate QR-Code using ZXing library in Kotlin.
 
 ## Step 1 : Add dependency
 ```groovy
-    implementation 'com.google.zxing:core:3.4.0'
+    implementation 'com.google.zxing:core:3.4.1'
 ```
 
 ## Step 2 : Add this method
