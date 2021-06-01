@@ -11,10 +11,9 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.zxing.BarcodeFormat
 import com.google.zxing.MultiFormatWriter
 import com.google.zxing.WriterException
-
 /**
- * Authored by Riyas Valiyadan
- * Contact me @ https://www.linkedin.com/in/riyasvmc
+ * @author Riyas Valiyadan
+ * Contact me : https://linked.in/in/riyasvmc
  */
 
 private const val TAG = "MainActivity"
