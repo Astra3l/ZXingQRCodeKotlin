@@ -36,4 +36,4 @@ imageView.setImageBitmap(bitmap)
 ```
 
 ## Buy me a coffee
-If this helped you consider [buying me a coffee ](https://www.buymeacoffee.com/riyasv). You can contact me through [LinkedIn](https://www.linkedin.com/in/riyasvmc).
+If this helped you consider [buying me a coffee ](https://www.buymeacoffee.com/riyasv).
