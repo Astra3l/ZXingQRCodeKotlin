@@ -12,8 +12,8 @@ import com.google.zxing.BarcodeFormat
 import com.google.zxing.MultiFormatWriter
 import com.google.zxing.WriterException
 /**
- * @author Riyas Valiyadan (https://linked.in/in/riyasvmc)
- * My Youtube channel : https://www.youtube.com/channel/UCblllf8M5bU4l-aUFB7HYig
+ * @author https://www.linkedin.com/in/riyasvmc/
+ * @coffee https://www.buymeacoffee.com/riyasv
  */
 
 private const val TAG = "MainActivity"
